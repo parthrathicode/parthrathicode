@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Parth Rathi 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Developer · Systems Enthusiast · Algorithm Nerd</em><br/>
+  <em>Full-Stack Developer · Systems Enthusiast · AI/ML Enthusiast</em><br/>
   <em>Bangalore, India 🇮🇳</em>
 </p>
 
