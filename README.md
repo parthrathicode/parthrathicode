@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems;Exploring+AI%2FML+and+data-driven+systems;Turning+ideas+into+working+projects;Learning.+Building.+Improving.+ 반복" alt="Typing intro"/>
+<p><strong>Building software that solves real problems · Exploring AI/ML and data-driven systems · Learning. Building. Improving.</strong></p>
 
 </div>
 
@@ -174,17 +174,19 @@ Applied classification and regression projects covering preprocessing, EDA, mode
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=parthrathicode&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthrathicode&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=parthrathicode&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9A3C&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthrathicode&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=parthrathicode&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub trophies"/>
+<a href="https://github.com/parthrathicode?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-1f6feb?style=for-the-badge&logo=github" alt="Explore repositories"/></a>
+<img src="https://img.shields.io/github/followers/parthrathicode?label=Followers&style=for-the-badge&logo=github&color=238636" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/parthrathicode?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/last-commit/parthrathicode/parthrathicode?label=Profile%20README%20updated&style=for-the-badge" alt="Last profile README update"/>
 
 </div>
+
+### Explore my GitHub activity
+
+- [Repositories and projects](https://github.com/parthrathicode?tab=repositories)
+- [Contribution activity](https://github.com/parthrathicode?tab=overview)
+- [Commit history](https://github.com/parthrathicode?tab=commits)
+
 
 ---
 
